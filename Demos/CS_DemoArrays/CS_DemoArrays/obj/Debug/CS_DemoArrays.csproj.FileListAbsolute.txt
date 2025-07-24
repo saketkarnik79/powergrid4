@@ -1,0 +1,8 @@
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\bin\Debug\CS_DemoArrays.exe.config
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\bin\Debug\CS_DemoArrays.exe
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\bin\Debug\CS_DemoArrays.pdb
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\obj\Debug\CS_DemoArrays.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\obj\Debug\CS_DemoArrays.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\obj\Debug\CS_DemoArrays.exe
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\obj\Debug\CS_DemoArrays.pdb
+C:\PowerGrid4\Demos\CS_DemoArrays\CS_DemoArrays\obj\Debug\CS_DemoArrays.exe.config

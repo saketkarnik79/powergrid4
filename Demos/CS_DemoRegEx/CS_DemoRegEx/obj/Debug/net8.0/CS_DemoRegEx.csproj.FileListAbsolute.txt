@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\bin\Debug\net8.0\CS_DemoRegEx.exe
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\bin\Debug\net8.0\CS_DemoRegEx.deps.json
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\bin\Debug\net8.0\CS_DemoRegEx.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\bin\Debug\net8.0\CS_DemoRegEx.dll
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\bin\Debug\net8.0\CS_DemoRegEx.pdb
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\CS_DemoRegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\CS_DemoRegEx.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\CS_DemoRegEx.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\CS_DemoRegEx.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\CS_DemoRegEx.dll
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\refint\CS_DemoRegEx.dll
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\CS_DemoRegEx.pdb
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\CS_DemoRegEx.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoRegEx\CS_DemoRegEx\obj\Debug\net8.0\ref\CS_DemoRegEx.dll

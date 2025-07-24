@@ -1,0 +1,8 @@
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\bin\Debug\CS_DemoObjectBaseClass.exe.config
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\bin\Debug\CS_DemoObjectBaseClass.exe
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\bin\Debug\CS_DemoObjectBaseClass.pdb
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\obj\Debug\CS_DemoObjectBaseClass.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\obj\Debug\CS_DemoObjectBaseClass.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\obj\Debug\CS_DemoObjectBaseClass.exe
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\obj\Debug\CS_DemoObjectBaseClass.pdb
+C:\PowerGrid4\Demos\CS_DemoObjectBaseClass\CS_DemoObjectBaseClass\obj\Debug\CS_DemoObjectBaseClass.exe.config

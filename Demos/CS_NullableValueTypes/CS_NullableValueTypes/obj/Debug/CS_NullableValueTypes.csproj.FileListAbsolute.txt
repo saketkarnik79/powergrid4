@@ -1,0 +1,7 @@
+C:\PowerGrid4\Demos\CS_NullableValueTypes\CS_NullableValueTypes\bin\Debug\CS_NullableValueTypes.exe.config
+C:\PowerGrid4\Demos\CS_NullableValueTypes\CS_NullableValueTypes\bin\Debug\CS_NullableValueTypes.exe
+C:\PowerGrid4\Demos\CS_NullableValueTypes\CS_NullableValueTypes\bin\Debug\CS_NullableValueTypes.pdb
+C:\PowerGrid4\Demos\CS_NullableValueTypes\CS_NullableValueTypes\obj\Debug\CS_NullableValueTypes.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS_NullableValueTypes\CS_NullableValueTypes\obj\Debug\CS_NullableValueTypes.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_NullableValueTypes\CS_NullableValueTypes\obj\Debug\CS_NullableValueTypes.exe
+C:\PowerGrid4\Demos\CS_NullableValueTypes\CS_NullableValueTypes\obj\Debug\CS_NullableValueTypes.pdb

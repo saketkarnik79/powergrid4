@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\bin\Debug\net8.0\CS_DemoPartialTypes.exe
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\bin\Debug\net8.0\CS_DemoPartialTypes.deps.json
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\bin\Debug\net8.0\CS_DemoPartialTypes.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\bin\Debug\net8.0\CS_DemoPartialTypes.dll
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\bin\Debug\net8.0\CS_DemoPartialTypes.pdb
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\CS_DemoPartialTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\CS_DemoPartialTypes.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\CS_DemoPartialTypes.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\CS_DemoPartialTypes.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\CS_DemoPartialTypes.dll
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\refint\CS_DemoPartialTypes.dll
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\CS_DemoPartialTypes.pdb
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\CS_DemoPartialTypes.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoPartialTypes\CS_DemoPartialTypes\obj\Debug\net8.0\ref\CS_DemoPartialTypes.dll

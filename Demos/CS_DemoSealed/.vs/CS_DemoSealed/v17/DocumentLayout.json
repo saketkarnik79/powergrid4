@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\CS_DemoSealed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AEB72F-3993-4C58-8735-49708767D0DB}|CS_DemoSealed\\CS_DemoSealed.csproj|c:\\powergrid4\\demos\\cs_demosealed\\cs_demosealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AEB72F-3993-4C58-8735-49708767D0DB}|CS_DemoSealed\\CS_DemoSealed.csproj|solutionrelative:cs_demosealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoSealed\\CS_DemoSealed\\Program.cs",
+              "RelativeDocumentMoniker": "CS_DemoSealed\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoSealed\\CS_DemoSealed\\Program.cs",
+              "RelativeToolTip": "CS_DemoSealed\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:05:54.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

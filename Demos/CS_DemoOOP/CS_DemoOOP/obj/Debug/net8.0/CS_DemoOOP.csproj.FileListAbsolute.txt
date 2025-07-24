@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\bin\Debug\net8.0\CS_DemoOOP.exe
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\bin\Debug\net8.0\CS_DemoOOP.deps.json
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\bin\Debug\net8.0\CS_DemoOOP.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\bin\Debug\net8.0\CS_DemoOOP.dll
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\bin\Debug\net8.0\CS_DemoOOP.pdb
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\CS_DemoOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\CS_DemoOOP.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\CS_DemoOOP.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\CS_DemoOOP.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\CS_DemoOOP.dll
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\refint\CS_DemoOOP.dll
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\CS_DemoOOP.pdb
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\CS_DemoOOP.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoOOP\CS_DemoOOP\obj\Debug\net8.0\ref\CS_DemoOOP.dll

@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\bin\Debug\net8.0\CS_DemoAnonymousTypes.exe
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\bin\Debug\net8.0\CS_DemoAnonymousTypes.deps.json
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\bin\Debug\net8.0\CS_DemoAnonymousTypes.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\bin\Debug\net8.0\CS_DemoAnonymousTypes.dll
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\bin\Debug\net8.0\CS_DemoAnonymousTypes.pdb
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\CS_DemoAnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\CS_DemoAnonymousTypes.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\CS_DemoAnonymousTypes.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\CS_DemoAnonymousTypes.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\CS_DemoAnonymousTypes.dll
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\refint\CS_DemoAnonymousTypes.dll
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\CS_DemoAnonymousTypes.pdb
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\CS_DemoAnonymousTypes.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoAnonymousTypes\CS_DemoAnonymousTypes\obj\Debug\net8.0\ref\CS_DemoAnonymousTypes.dll

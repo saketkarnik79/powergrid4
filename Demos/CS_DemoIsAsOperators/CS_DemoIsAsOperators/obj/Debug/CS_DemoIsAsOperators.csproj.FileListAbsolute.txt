@@ -1,0 +1,8 @@
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\bin\Debug\CS_DemoIsAsOperators.exe.config
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\bin\Debug\CS_DemoIsAsOperators.exe
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\bin\Debug\CS_DemoIsAsOperators.pdb
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\obj\Debug\CS_DemoIsAsOperators.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\obj\Debug\CS_DemoIsAsOperators.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\obj\Debug\CS_DemoIsAsOperators.exe
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\obj\Debug\CS_DemoIsAsOperators.pdb
+C:\PowerGrid4\Demos\CS_DemoIsAsOperators\CS_DemoIsAsOperators\obj\Debug\CS_DemoIsAsOperators.exe.config

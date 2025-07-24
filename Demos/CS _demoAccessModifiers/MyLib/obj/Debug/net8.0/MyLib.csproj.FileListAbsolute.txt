@@ -1,0 +1,11 @@
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\bin\Debug\net8.0\MyLib.deps.json
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\bin\Debug\net8.0\MyLib.dll
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\bin\Debug\net8.0\MyLib.pdb
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\MyLib.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\MyLib.dll
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\refint\MyLib.dll
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\MyLib.pdb
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\MyLib\obj\Debug\net8.0\ref\MyLib.dll

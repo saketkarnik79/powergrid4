@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\bin\Debug\net8.0\CS_DemoExceptions.exe
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\bin\Debug\net8.0\CS_DemoExceptions.deps.json
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\bin\Debug\net8.0\CS_DemoExceptions.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\bin\Debug\net8.0\CS_DemoExceptions.dll
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\bin\Debug\net8.0\CS_DemoExceptions.pdb
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\CS_DemoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\CS_DemoExceptions.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\CS_DemoExceptions.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\CS_DemoExceptions.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\CS_DemoExceptions.dll
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\refint\CS_DemoExceptions.dll
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\CS_DemoExceptions.pdb
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\CS_DemoExceptions.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoExceptions\CS_DemoExceptions\obj\Debug\net8.0\ref\CS_DemoExceptions.dll

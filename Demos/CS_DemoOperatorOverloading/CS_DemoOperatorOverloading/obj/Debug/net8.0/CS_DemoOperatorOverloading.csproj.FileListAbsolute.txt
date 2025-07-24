@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\bin\Debug\net8.0\CS_DemoOperatorOverloading.exe
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\bin\Debug\net8.0\CS_DemoOperatorOverloading.deps.json
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\bin\Debug\net8.0\CS_DemoOperatorOverloading.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\bin\Debug\net8.0\CS_DemoOperatorOverloading.dll
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\bin\Debug\net8.0\CS_DemoOperatorOverloading.pdb
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\CS_DemoOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\CS_DemoOperatorOverloading.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\CS_DemoOperatorOverloading.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\CS_DemoOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\CS_DemoOperatorOverloading.dll
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\refint\CS_DemoOperatorOverloading.dll
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\CS_DemoOperatorOverloading.pdb
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\CS_DemoOperatorOverloading.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoOperatorOverloading\CS_DemoOperatorOverloading\obj\Debug\net8.0\ref\CS_DemoOperatorOverloading.dll

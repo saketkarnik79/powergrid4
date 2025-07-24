@@ -1,0 +1,18 @@
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\bin\Debug\net8.0\CS _demoAccessModifiers.exe
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\bin\Debug\net8.0\CS _demoAccessModifiers.deps.json
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\bin\Debug\net8.0\CS _demoAccessModifiers.runtimeconfig.json
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\bin\Debug\net8.0\CS _demoAccessModifiers.dll
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\bin\Debug\net8.0\CS _demoAccessModifiers.pdb
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\bin\Debug\net8.0\MyLib.dll
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\bin\Debug\net8.0\MyLib.pdb
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demo.FBE8C943.Up2Date
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.dll
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\refint\CS _demoAccessModifiers.dll
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.pdb
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\CS _demoAccessModifiers.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS _demoAccessModifiers\CS _demoAccessModifiers\obj\Debug\net8.0\ref\CS _demoAccessModifiers.dll

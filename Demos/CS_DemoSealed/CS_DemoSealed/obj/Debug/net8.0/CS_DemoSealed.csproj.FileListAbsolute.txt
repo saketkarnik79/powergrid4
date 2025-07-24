@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\bin\Debug\net8.0\CS_DemoSealed.exe
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\bin\Debug\net8.0\CS_DemoSealed.deps.json
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\bin\Debug\net8.0\CS_DemoSealed.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\bin\Debug\net8.0\CS_DemoSealed.dll
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\bin\Debug\net8.0\CS_DemoSealed.pdb
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\CS_DemoSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\CS_DemoSealed.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\CS_DemoSealed.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\CS_DemoSealed.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\CS_DemoSealed.dll
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\refint\CS_DemoSealed.dll
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\CS_DemoSealed.pdb
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\CS_DemoSealed.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoSealed\CS_DemoSealed\obj\Debug\net8.0\ref\CS_DemoSealed.dll

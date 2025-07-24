@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\CS_DemoExceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193E81-6E76-4ACB-B6FE-A1AFAF52A383}|CS_DemoExceptions\\CS_DemoExceptions.csproj|c:\\powergrid4\\demos\\cs_demoexceptions\\cs_demoexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193E81-6E76-4ACB-B6FE-A1AFAF52A383}|CS_DemoExceptions\\CS_DemoExceptions.csproj|solutionrelative:cs_demoexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193E81-6E76-4ACB-B6FE-A1AFAF52A383}|CS_DemoExceptions\\CS_DemoExceptions.csproj|c:\\powergrid4\\demos\\cs_demoexceptions\\cs_demoexceptions\\demographics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193E81-6E76-4ACB-B6FE-A1AFAF52A383}|CS_DemoExceptions\\CS_DemoExceptions.csproj|solutionrelative:cs_demoexceptions\\demographics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193E81-6E76-4ACB-B6FE-A1AFAF52A383}|CS_DemoExceptions\\CS_DemoExceptions.csproj|c:\\powergrid4\\demos\\cs_demoexceptions\\cs_demoexceptions\\exceptions\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193E81-6E76-4ACB-B6FE-A1AFAF52A383}|CS_DemoExceptions\\CS_DemoExceptions.csproj|solutionrelative:cs_demoexceptions\\exceptions\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoExceptions\\CS_DemoExceptions\\Demographics\\Person.cs",
+              "RelativeDocumentMoniker": "CS_DemoExceptions\\Demographics\\Person.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoExceptions\\CS_DemoExceptions\\Demographics\\Person.cs*",
+              "RelativeToolTip": "CS_DemoExceptions\\Demographics\\Person.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:01:45.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidAgeException.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoExceptions\\CS_DemoExceptions\\Exceptions\\InvalidAgeException.cs",
+              "RelativeDocumentMoniker": "CS_DemoExceptions\\Exceptions\\InvalidAgeException.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoExceptions\\CS_DemoExceptions\\Exceptions\\InvalidAgeException.cs",
+              "RelativeToolTip": "CS_DemoExceptions\\Exceptions\\InvalidAgeException.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:58:23.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoExceptions\\CS_DemoExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "CS_DemoExceptions\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoExceptions\\CS_DemoExceptions\\Program.cs*",
+              "RelativeToolTip": "CS_DemoExceptions\\Program.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:42:41.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

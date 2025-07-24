@@ -1,0 +1,7 @@
+C:\PowerGrid4\Demos\CS_DemoLoops\CS_DemoLoops\bin\Debug\CS_DemoLoops.exe.config
+C:\PowerGrid4\Demos\CS_DemoLoops\CS_DemoLoops\bin\Debug\CS_DemoLoops.exe
+C:\PowerGrid4\Demos\CS_DemoLoops\CS_DemoLoops\bin\Debug\CS_DemoLoops.pdb
+C:\PowerGrid4\Demos\CS_DemoLoops\CS_DemoLoops\obj\Debug\CS_DemoLoops.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS_DemoLoops\CS_DemoLoops\obj\Debug\CS_DemoLoops.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoLoops\CS_DemoLoops\obj\Debug\CS_DemoLoops.exe
+C:\PowerGrid4\Demos\CS_DemoLoops\CS_DemoLoops\obj\Debug\CS_DemoLoops.pdb

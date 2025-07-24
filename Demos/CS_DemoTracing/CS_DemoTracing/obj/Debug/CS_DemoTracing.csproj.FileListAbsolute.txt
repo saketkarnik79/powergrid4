@@ -1,0 +1,8 @@
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\bin\Debug\CS_DemoTracing.exe.config
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\bin\Debug\CS_DemoTracing.exe
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\bin\Debug\CS_DemoTracing.pdb
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\obj\Debug\CS_DemoTracing.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\obj\Debug\CS_DemoTracing.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\obj\Debug\CS_DemoTracing.exe
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\obj\Debug\CS_DemoTracing.pdb
+C:\PowerGrid4\Demos\CS_DemoTracing\CS_DemoTracing\obj\Debug\CS_DemoTracing.exe.config

@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\bin\Debug\net8.0\CS_DemoStatic.exe
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\bin\Debug\net8.0\CS_DemoStatic.deps.json
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\bin\Debug\net8.0\CS_DemoStatic.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\bin\Debug\net8.0\CS_DemoStatic.dll
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\bin\Debug\net8.0\CS_DemoStatic.pdb
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\CS_DemoStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\CS_DemoStatic.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\CS_DemoStatic.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\CS_DemoStatic.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\CS_DemoStatic.dll
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\refint\CS_DemoStatic.dll
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\CS_DemoStatic.pdb
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\CS_DemoStatic.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoStatic\CS_DemoStatic\obj\Debug\net8.0\ref\CS_DemoStatic.dll

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\CS _demoAccessModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE312F37-991C-4C96-A6FA-92F0A1E015D2}|CS _demoAccessModifiers\\CS _demoAccessModifiers.csproj|c:\\powergrid4\\demos\\cs _demoaccessmodifiers\\cs _demoaccessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE312F37-991C-4C96-A6FA-92F0A1E015D2}|CS _demoAccessModifiers\\CS _demoAccessModifiers.csproj|solutionrelative:cs _demoaccessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282CAEC0-0294-4D9C-ACB0-6F87D84DD122}|MyLib\\MyLib.csproj|c:\\powergrid4\\demos\\cs _demoaccessmodifiers\\mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282CAEC0-0294-4D9C-ACB0-6F87D84DD122}|MyLib\\MyLib.csproj|solutionrelative:mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS _demoAccessModifiers\\MyLib\\Class1.cs",
+              "RelativeDocumentMoniker": "MyLib\\Class1.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS _demoAccessModifiers\\MyLib\\Class1.cs",
+              "RelativeToolTip": "MyLib\\Class1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:32:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS _demoAccessModifiers\\CS _demoAccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "CS _demoAccessModifiers\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS _demoAccessModifiers\\CS _demoAccessModifiers\\Program.cs*",
+              "RelativeToolTip": "CS _demoAccessModifiers\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:26:31.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

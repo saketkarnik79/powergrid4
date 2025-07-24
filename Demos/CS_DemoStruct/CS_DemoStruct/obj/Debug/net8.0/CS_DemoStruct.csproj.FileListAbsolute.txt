@@ -1,0 +1,14 @@
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\bin\Debug\net8.0\CS_DemoStruct.exe
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\bin\Debug\net8.0\CS_DemoStruct.deps.json
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\bin\Debug\net8.0\CS_DemoStruct.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\bin\Debug\net8.0\CS_DemoStruct.dll
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\bin\Debug\net8.0\CS_DemoStruct.pdb
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\CS_DemoStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\CS_DemoStruct.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\CS_DemoStruct.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\CS_DemoStruct.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\CS_DemoStruct.dll
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\refint\CS_DemoStruct.dll
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\CS_DemoStruct.pdb
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\CS_DemoStruct.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoStruct\CS_DemoStruct\obj\Debug\net8.0\ref\CS_DemoStruct.dll

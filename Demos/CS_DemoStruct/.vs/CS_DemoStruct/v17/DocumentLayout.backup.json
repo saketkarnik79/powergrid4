@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\CS_DemoStruct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1C2D6E-5ED3-4B30-A039-4DB10A4D983D}|CS_DemoStruct\\CS_DemoStruct.csproj|c:\\powergrid4\\demos\\cs_demostruct\\cs_demostruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1C2D6E-5ED3-4B30-A039-4DB10A4D983D}|CS_DemoStruct\\CS_DemoStruct.csproj|solutionrelative:cs_demostruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1C2D6E-5ED3-4B30-A039-4DB10A4D983D}|CS_DemoStruct\\CS_DemoStruct.csproj|c:\\powergrid4\\demos\\cs_demostruct\\cs_demostruct\\customtypes\\valuetypes\\demographics\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1C2D6E-5ED3-4B30-A039-4DB10A4D983D}|CS_DemoStruct\\CS_DemoStruct.csproj|solutionrelative:cs_demostruct\\customtypes\\valuetypes\\demographics\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoStruct\\CS_DemoStruct\\CustomTypes\\ValueTypes\\Demographics\\Point.cs",
+              "RelativeDocumentMoniker": "CS_DemoStruct\\CustomTypes\\ValueTypes\\Demographics\\Point.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoStruct\\CS_DemoStruct\\CustomTypes\\ValueTypes\\Demographics\\Point.cs",
+              "RelativeToolTip": "CS_DemoStruct\\CustomTypes\\ValueTypes\\Demographics\\Point.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:02:15.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoStruct\\CS_DemoStruct\\Program.cs",
+              "RelativeDocumentMoniker": "CS_DemoStruct\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoStruct\\CS_DemoStruct\\Program.cs*",
+              "RelativeToolTip": "CS_DemoStruct\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA8wAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:01:03.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
