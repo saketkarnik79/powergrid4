@@ -1,0 +1,8 @@
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\obj\Debug\Demo_SOAPSerialization.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\obj\Debug\Demo_SOAPSerialization.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\bin\Debug\Demo_SOAPSerialization.exe.config
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\bin\Debug\Demo_SOAPSerialization.exe
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\bin\Debug\Demo_SOAPSerialization.pdb
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\obj\Debug\Demo_SOAPSerialization.exe
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\obj\Debug\Demo_SOAPSerialization.pdb
+C:\PowerGrid4\Demos\CS_DemoSerialization\Demo_SOAPSerialization\obj\Debug\Demo_SOAPSerialization.exe.config

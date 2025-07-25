@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\CS_DemoCustomCollections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1619B-6F19-434D-99A6-ED8C3E4E50C2}|CS_DemoCustomCollections\\CS_DemoCustomCollections.csproj|c:\\powergrid4\\demos\\cs_democustomcollections\\cs_democustomcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A1619B-6F19-434D-99A6-ED8C3E4E50C2}|CS_DemoCustomCollections\\CS_DemoCustomCollections.csproj|solutionrelative:cs_democustomcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1619B-6F19-434D-99A6-ED8C3E4E50C2}|CS_DemoCustomCollections\\CS_DemoCustomCollections.csproj|c:\\powergrid4\\demos\\cs_democustomcollections\\cs_democustomcollections\\collections\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A1619B-6F19-434D-99A6-ED8C3E4E50C2}|CS_DemoCustomCollections\\CS_DemoCustomCollections.csproj|solutionrelative:cs_democustomcollections\\collections\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoCustomCollections\\CS_DemoCustomCollections\\Collections\\MyList.cs",
+              "RelativeDocumentMoniker": "CS_DemoCustomCollections\\Collections\\MyList.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoCustomCollections\\CS_DemoCustomCollections\\Collections\\MyList.cs",
+              "RelativeToolTip": "CS_DemoCustomCollections\\Collections\\MyList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:56:14.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoCustomCollections\\CS_DemoCustomCollections\\Program.cs",
+              "RelativeDocumentMoniker": "CS_DemoCustomCollections\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoCustomCollections\\CS_DemoCustomCollections\\Program.cs",
+              "RelativeToolTip": "CS_DemoCustomCollections\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:55:10.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

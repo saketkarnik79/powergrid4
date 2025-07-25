@@ -1,0 +1,5 @@
+C:\PowerGrid4\Demos\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0\CS_DemoSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0\CS_DemoSerialization.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0\CS_DemoSerialization.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0\CS_DemoSerialization.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0\CS_DemoSerialization.sourcelink.json

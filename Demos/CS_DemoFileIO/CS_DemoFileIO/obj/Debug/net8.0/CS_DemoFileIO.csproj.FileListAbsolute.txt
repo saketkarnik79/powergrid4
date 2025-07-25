@@ -1,0 +1,15 @@
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0\CS_DemoFileIO.exe
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0\CS_DemoFileIO.deps.json
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0\CS_DemoFileIO.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0\CS_DemoFileIO.dll
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0\CS_DemoFileIO.pdb
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.sourcelink.json
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.dll
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\refint\CS_DemoFileIO.dll
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.pdb
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\CS_DemoFileIO.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0\ref\CS_DemoFileIO.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_DemoSerialization", "CS_DemoSerialization\CS_DemoSerialization.csproj", "{8FE5EA24-F140-488D-AC80-77F6C5B33241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_SOAPSerialization", "Demo_SOAPSerialization\Demo_SOAPSerialization.csproj", "{0F4668AB-DFE7-4DB5-B201-13AEE3959FE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE5EA24-F140-488D-AC80-77F6C5B33241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE5EA24-F140-488D-AC80-77F6C5B33241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE5EA24-F140-488D-AC80-77F6C5B33241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE5EA24-F140-488D-AC80-77F6C5B33241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4668AB-DFE7-4DB5-B201-13AEE3959FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4668AB-DFE7-4DB5-B201-13AEE3959FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4668AB-DFE7-4DB5-B201-13AEE3959FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4668AB-DFE7-4DB5-B201-13AEE3959FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {042003CA-9E68-4A69-BB9C-34F47C63A2E9}
+	EndGlobalSection
+EndGlobal
