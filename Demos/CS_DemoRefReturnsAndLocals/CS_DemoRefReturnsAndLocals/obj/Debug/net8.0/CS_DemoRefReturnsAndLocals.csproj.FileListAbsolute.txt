@@ -1,0 +1,15 @@
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\bin\Debug\net8.0\CS_DemoRefReturnsAndLocals.exe
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\bin\Debug\net8.0\CS_DemoRefReturnsAndLocals.deps.json
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\bin\Debug\net8.0\CS_DemoRefReturnsAndLocals.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\bin\Debug\net8.0\CS_DemoRefReturnsAndLocals.dll
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\bin\Debug\net8.0\CS_DemoRefReturnsAndLocals.pdb
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.sourcelink.json
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.dll
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\refint\CS_DemoRefReturnsAndLocals.dll
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.pdb
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\CS_DemoRefReturnsAndLocals.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoRefReturnsAndLocals\CS_DemoRefReturnsAndLocals\obj\Debug\net8.0\ref\CS_DemoRefReturnsAndLocals.dll

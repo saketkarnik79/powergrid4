@@ -17,10 +17,10 @@ namespace CS_DemoSerialization
                 Name = "John Doe",
                 Age = 30
             };
-            //DemoBinarySerialization(person);
+            DemoBinarySerialization(person);
             //DemoXmlSerialization(person);
             //DemoSOAPSerialization(person);
-            person = DemoJsonSerialization(person);
+            //DemoJsonSerialization(person);
             Console.WriteLine("Deserialization complete.");
 
             Console.WriteLine();
@@ -28,7 +28,7 @@ namespace CS_DemoSerialization
             Console.ReadKey();
         }
 
-        private static Person? DemoJsonSerialization(Person? person)
+        private static void DemoJsonSerialization(Person? person)
         {
             string jsonFilePath = "person.json";
             // Serialize the person object to a JSON file
@@ -47,8 +47,6 @@ namespace CS_DemoSerialization
                 var deserializedPerson = JsonSerializer.Deserialize<Person>(fs);
                 Console.WriteLine($"Name: {deserializedPerson.Name}, Age: {deserializedPerson.Age}");
             }
-
-            return person;
         }
 
         private static void DemoBinarySerialization(Person? person)

@@ -1,0 +1,12 @@
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\bin\Debug\net8.0\ServicesLib.deps.json
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\bin\Debug\net8.0\ServicesLib.dll
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\bin\Debug\net8.0\ServicesLib.pdb
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ServicesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ServicesLib.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ServicesLib.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ServicesLib.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ServicesLib.sourcelink.json
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ServicesLib.dll
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\refint\ServicesLib.dll
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ServicesLib.pdb
+C:\PowerGrid4\Demos\CS_DemoDI\ServicesLib\obj\Debug\net8.0\ref\ServicesLib.dll

@@ -1,0 +1,15 @@
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\bin\Debug\net8.0\CS_DemoTuples.exe
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\bin\Debug\net8.0\CS_DemoTuples.deps.json
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\bin\Debug\net8.0\CS_DemoTuples.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\bin\Debug\net8.0\CS_DemoTuples.dll
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\bin\Debug\net8.0\CS_DemoTuples.pdb
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.sourcelink.json
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.dll
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\refint\CS_DemoTuples.dll
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.pdb
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\CS_DemoTuples.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoTuples\CS_DemoTuples\obj\Debug\net8.0\ref\CS_DemoTuples.dll

@@ -5,14 +5,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Serialization.Formatters.Soap;
+using System.Runtime.Serialization;
 
 namespace Demo_SOAPSerialization
 {
     [Serializable]
-    public class Person
+    public class Person: ISerializable
     {
         public string Name { get; set; }
         public int Age { get; set; }
+
+        public Person() { }
+
+        public Person(SerializationInfo info, StreamingContext context)
+        {
+            Name = info.GetString("Name");
+            Age = info.GetInt32("Age");
+        }
+
+        public void GetObjectData(SerializationInfo info, StreamingContext context)
+        {
+            info.AddValue("Name", Name);
+            info.AddValue("Age", Age);
+        }
     }
 
     internal class Program

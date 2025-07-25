@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS_DemoSerialization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cb64ce1fda5597f984bab2c398654bce1144379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77d41296c6ea8b184585c2eb14f690d9d5573a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS_DemoSerialization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS_DemoSerialization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

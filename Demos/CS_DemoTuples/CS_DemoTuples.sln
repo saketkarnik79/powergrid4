@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_DemoTuples", "CS_DemoTuples\CS_DemoTuples.csproj", "{4E091A04-EAA3-4722-95E3-028AF253A17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E091A04-EAA3-4722-95E3-028AF253A17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E091A04-EAA3-4722-95E3-028AF253A17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E091A04-EAA3-4722-95E3-028AF253A17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E091A04-EAA3-4722-95E3-028AF253A17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B7CE58-F418-4DF6-A10F-952EC7005BB0}
+	EndGlobalSection
+EndGlobal

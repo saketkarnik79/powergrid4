@@ -1,0 +1,15 @@
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\bin\Debug\net8.0\CS_DemoAwait.exe
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\bin\Debug\net8.0\CS_DemoAwait.deps.json
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\bin\Debug\net8.0\CS_DemoAwait.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\bin\Debug\net8.0\CS_DemoAwait.dll
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\bin\Debug\net8.0\CS_DemoAwait.pdb
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.sourcelink.json
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.dll
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\refint\CS_DemoAwait.dll
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.pdb
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\CS_DemoAwait.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoAwait\CS_DemoAwait\obj\Debug\net8.0\ref\CS_DemoAwait.dll

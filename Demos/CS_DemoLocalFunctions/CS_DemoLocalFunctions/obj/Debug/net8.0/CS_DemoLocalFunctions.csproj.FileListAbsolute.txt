@@ -1,0 +1,15 @@
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\bin\Debug\net8.0\CS_DemoLocalFunctions.exe
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\bin\Debug\net8.0\CS_DemoLocalFunctions.deps.json
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\bin\Debug\net8.0\CS_DemoLocalFunctions.runtimeconfig.json
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\bin\Debug\net8.0\CS_DemoLocalFunctions.dll
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\bin\Debug\net8.0\CS_DemoLocalFunctions.pdb
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.AssemblyInfo.cs
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.sourcelink.json
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.dll
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\refint\CS_DemoLocalFunctions.dll
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.pdb
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\CS_DemoLocalFunctions.genruntimeconfig.cache
+C:\PowerGrid4\Demos\CS_DemoLocalFunctions\CS_DemoLocalFunctions\obj\Debug\net8.0\ref\CS_DemoLocalFunctions.dll
