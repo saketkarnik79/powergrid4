@@ -1,0 +1,12 @@
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.deps.json
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.pdb
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.AssemblyInfo.cs
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.sourcelink.json
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\refint\Web_DemoMVCWithEFCoreCodeFirst.Models.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.pdb
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\ref\Web_DemoMVCWithEFCoreCodeFirst.Models.dll

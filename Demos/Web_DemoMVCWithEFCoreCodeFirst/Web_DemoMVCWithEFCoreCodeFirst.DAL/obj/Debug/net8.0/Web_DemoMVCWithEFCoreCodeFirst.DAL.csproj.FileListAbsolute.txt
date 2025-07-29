@@ -1,0 +1,16 @@
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.deps.json
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.pdb
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\bin\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.pdb
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.csproj.AssemblyReference.cache
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.AssemblyInfo.cs
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.sourcelink.json
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_Demo.CB804F2E.Up2Date
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\refint\Web_DemoMVCWithEFCoreCodeFirst.DAL.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.DAL.pdb
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.DAL\obj\Debug\net8.0\ref\Web_DemoMVCWithEFCoreCodeFirst.DAL.dll
