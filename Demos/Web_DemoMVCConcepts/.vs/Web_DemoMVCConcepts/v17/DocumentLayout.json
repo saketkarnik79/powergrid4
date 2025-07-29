@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|c:\\powergrid4\\demos\\web_demomvcconcepts\\web_demomvcconcepts\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|solutionrelative:web_demomvcconcepts\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|c:\\powergrid4\\demos\\web_demomvcconcepts\\web_demomvcconcepts\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|solutionrelative:web_demomvcconcepts\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|c:\\powergrid4\\demos\\web_demomvcconcepts\\web_demomvcconcepts\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|solutionrelative:web_demomvcconcepts\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|c:\\powergrid4\\demos\\web_demomvcconcepts\\web_demomvcconcepts\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|solutionrelative:web_demomvcconcepts\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|c:\\powergrid4\\demos\\web_demomvcconcepts\\web_demomvcconcepts\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|solutionrelative:web_demomvcconcepts\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|c:\\powergrid4\\demos\\web_demomvcconcepts\\web_demomvcconcepts\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{732C3B66-B109-42DB-AF0F-A56FE1A037FE}|Web_DemoMVCConcepts\\Web_DemoMVCConcepts.csproj|solutionrelative:web_demomvcconcepts\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCConcepts\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Web_DemoMVCConcepts\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T07:27:08.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCConcepts\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Web_DemoMVCConcepts\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T07:20:05.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCConcepts\\Models\\Product.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Models\\Product.cs",
+              "RelativeToolTip": "Web_DemoMVCConcepts\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:14:14.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCConcepts\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Web_DemoMVCConcepts\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T07:08:55.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCConcepts\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Web_DemoMVCConcepts\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T06:58:49.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCConcepts\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCConcepts\\Web_DemoMVCConcepts\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Web_DemoMVCConcepts\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowHoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:28:15.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

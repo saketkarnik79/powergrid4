@@ -54,8 +54,7 @@
               "RelativeToolTip": "Web_DemoMVCBasics\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T05:19:52.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T05:19:52.71Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "Web_DemoMVCBasics\\Views\\Products\\Create.cshtml",
               "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCBasics\\Web_DemoMVCBasics\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "Web_DemoMVCBasics\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-29T05:18:59.068Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Web_DemoMVCBasics\\Views\\Products\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T05:18:20.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T05:18:20.935Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Web_DemoMVCBasics\\Views\\Products\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T05:17:51.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T05:17:51.881Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Web_DemoMVCBasics\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T05:10:08.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T05:10:08.893Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Web_DemoMVCBasics\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T05:09:28.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T05:09:28.968Z"
             }
           ]
         }
