@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["title"] = "Layout page demo";
+}
+
+<div>
+    <h2>
+        This is static view content
+    </h2>
+    <h3 style="color:darkgreen;">
+        @ViewData["message"]
+    </h3>
+    <h3 style="color:darkmagenta;">
+        @ViewBag.Message2
+    </h3>
+    <h4>
+        @ViewBag.ConfigInfo
+    </h4>
+
+    <div>
+        @*@Html.ActionLink("Products","Index","Products")*@
+        <a asp-action="Index" asp-controller="Products">Products</a>
+    </div>
+</div>

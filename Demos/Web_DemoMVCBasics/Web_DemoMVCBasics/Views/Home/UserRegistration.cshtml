@@ -1,0 +1,26 @@
+﻿@{ 
+    var userName = ViewData["UserName"] as string ?? "";
+    var password = ViewData["Password"] as string ?? string.Empty;
+    var email = ViewData["Email"] as string ?? string.Empty;
+}
+
+<h1>@ViewBag.title</h1>
+
+<form method="post">
+    <div>
+        <label for="UserName">User Name: </label>
+        <input type="text" name="UserName" value="@userName" />
+    </div>
+    <div>
+        <label for="Password">Password: </label>
+        <input type="password" name="Password" value="@password" />
+    </div>
+    <div>
+        <label for="Email">Email: </label>
+        <input type="email" name="Email" value="@email" />
+    </div>
+    <div>
+        <button type="submit" name="btnSubmit">Register</button>
+    </div>
+</form>
+@ViewBag.Message

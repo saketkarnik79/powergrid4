@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyLib/1.0.0": {
+        "dependencies": {
+          "HiNetCloud.Microsoft.Extensions.Configuration.Abstractions": "24.8.10.9"
+        },
+        "runtime": {
+          "MyLib.dll": {}
+        }
+      },
+      "HiNetCloud.Microsoft.Extensions.Configuration.Abstractions/24.8.10.9": {
+        "runtime": {
+          "lib/net48/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HiNetCloud.Microsoft.Extensions.Configuration.Abstractions/24.8.10.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ubNvUwBfLp1GjDDBAT4QeojRhXCHE/pQyOtdgMFHqHFv0fMitufNoOCUDuW/PAP49B6M1SIher/90PZYFvWefg==",
+      "path": "hinetcloud.microsoft.extensions.configuration.abstractions/24.8.10.9",
+      "hashPath": "hinetcloud.microsoft.extensions.configuration.abstractions.24.8.10.9.nupkg.sha512"
+    }
+  }
+}

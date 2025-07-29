@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{38233DDF-4579-4873-AAF6-56D4C4DAE5FD}|ServicesLib\\ServicesLib.csproj|solutionrelative:serviceslib\\services\\serviceimplementations\\consolemessageservicev1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{38233DDF-4579-4873-AAF6-56D4C4DAE5FD}|ServicesLib\\ServicesLib.csproj|c:\\powergrid4\\demos\\cs_demodi\\serviceslib\\services\\contracts\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38233DDF-4579-4873-AAF6-56D4C4DAE5FD}|ServicesLib\\ServicesLib.csproj|solutionrelative:serviceslib\\services\\contracts\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38233DDF-4579-4873-AAF6-56D4C4DAE5FD}|ServicesLib\\ServicesLib.csproj|c:\\powergrid4\\demos\\cs_demodi\\serviceslib\\services\\serviceimplementations\\consolemessageservicev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38233DDF-4579-4873-AAF6-56D4C4DAE5FD}|ServicesLib\\ServicesLib.csproj|solutionrelative:serviceslib\\services\\serviceimplementations\\consolemessageservicev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DF1C590-F7DA-4C82-89F6-A60E930E287E}|CS_DemoDI\\CS_DemoDI.csproj|c:\\powergrid4\\demos\\cs_demodi\\cs_demodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF1C590-F7DA-4C82-89F6-A60E930E287E}|CS_DemoDI\\CS_DemoDI.csproj|solutionrelative:cs_demodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConsoleMessageServiceV1.cs",
-              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs",
-              "RelativeDocumentMoniker": "ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs",
-              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs*",
-              "RelativeToolTip": "ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T09:34:55.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Processor.cs",
               "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Processor.cs",
               "RelativeDocumentMoniker": "ServicesLib\\Processor.cs",
               "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Processor.cs",
               "RelativeToolTip": "ServicesLib\\Processor.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T09:25:57.254Z",
+              "WhenOpened": "2025-07-25T10:03:31.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\CS_DemoDI\\Program.cs",
               "RelativeDocumentMoniker": "CS_DemoDI\\Program.cs",
               "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\CS_DemoDI\\Program.cs",
               "RelativeToolTip": "CS_DemoDI\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBEAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:47:55.554Z",
+              "WhenOpened": "2025-07-25T10:03:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleMessageServiceV2.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV2.cs",
+              "RelativeDocumentMoniker": "ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV2.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV2.cs",
+              "RelativeToolTip": "ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:03:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\Contracts\\IMessageService.cs",
+              "RelativeDocumentMoniker": "ServicesLib\\Services\\Contracts\\IMessageService.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\Contracts\\IMessageService.cs",
+              "RelativeToolTip": "ServicesLib\\Services\\Contracts\\IMessageService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:01:34.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleMessageServiceV1.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs",
+              "RelativeDocumentMoniker": "ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\CS_DemoDI\\ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs",
+              "RelativeToolTip": "ServicesLib\\Services\\ServiceImplementations\\ConsoleMessageServiceV1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:01:30.143Z",
               "EditorCaption": ""
             }
           ]

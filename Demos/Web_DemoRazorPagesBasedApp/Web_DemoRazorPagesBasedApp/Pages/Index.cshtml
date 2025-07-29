@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <h3 class="text-danger">
+        @ViewData["message"]
+    </h3>
+</div>
+<div class="text-center">
+    <form method="post">
+        <button class="btn btn-primary" id="btnSubmit" name="btnSubmit">
+            Submit
+        </button>
+    </form>
+</div>
+
+@*@section Scripts{ 
+    <script type="text/javascript">
+        alert("Hello there!")
+    </script>
+}*@

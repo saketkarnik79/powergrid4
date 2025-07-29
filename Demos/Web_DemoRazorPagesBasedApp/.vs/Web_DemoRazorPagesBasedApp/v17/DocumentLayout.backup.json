@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|c:\\powergrid4\\demos\\web_demorazorpagesbasedapp\\web_demorazorpagesbasedapp\\middlewares\\customheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|solutionrelative:web_demorazorpagesbasedapp\\middlewares\\customheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|c:\\powergrid4\\demos\\web_demorazorpagesbasedapp\\web_demorazorpagesbasedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|solutionrelative:web_demorazorpagesbasedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|c:\\powergrid4\\demos\\web_demorazorpagesbasedapp\\web_demorazorpagesbasedapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|solutionrelative:web_demorazorpagesbasedapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|c:\\powergrid4\\demos\\web_demorazorpagesbasedapp\\web_demorazorpagesbasedapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16646D1F-95CF-469B-B637-A5942354C0D2}|Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp.csproj|solutionrelative:web_demorazorpagesbasedapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:54:39.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Web_DemoRazorPagesBasedApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T05:54:34.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomHeaderMiddleware.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Middlewares\\CustomHeaderMiddleware.cs",
+              "RelativeDocumentMoniker": "Web_DemoRazorPagesBasedApp\\Middlewares\\CustomHeaderMiddleware.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Middlewares\\CustomHeaderMiddleware.cs",
+              "RelativeToolTip": "Web_DemoRazorPagesBasedApp\\Middlewares\\CustomHeaderMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:44:49.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Program.cs",
+              "RelativeDocumentMoniker": "Web_DemoRazorPagesBasedApp\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoRazorPagesBasedApp\\Web_DemoRazorPagesBasedApp\\Program.cs",
+              "RelativeToolTip": "Web_DemoRazorPagesBasedApp\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:48:26.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
