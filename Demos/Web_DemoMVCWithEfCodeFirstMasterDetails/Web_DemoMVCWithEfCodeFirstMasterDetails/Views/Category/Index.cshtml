@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Category>
+
+<h2>Categories</h2>
+<hr/>
+<div>
+    @Html.ActionLink("Create Category","Create")
+</div>
+<ul>
+    @foreach (var category in Model)
+	{
+		<li>
+			<a href="@Url.Action("Details", new { id = category.CategoryId})">
+				@category.Name
+			</a>
+			(Products: @category?.Products?.Count)
+		</li>
+	}
+</ul>
+
+<form method="Get" action="Category/GoToDetails">
+    <select id="lstCategories" name="lstCategories">
+        <option selected>---Select Category---</option>
+        @foreach (var category in Model)
+        {
+            <option value="@category.CategoryId">@category.Name</option>
+        }
+    </select>
+    <button type="submit" class="btn btn-primary">
+        Submit
+    </button>
+</form>

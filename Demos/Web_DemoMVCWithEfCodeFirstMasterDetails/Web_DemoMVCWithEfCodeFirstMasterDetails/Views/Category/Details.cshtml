@@ -1,0 +1,30 @@
+﻿@model Category
+<h2>
+    @Model.Name
+</h2>
+<hr/>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model?.Products!)
+        {
+            <tr>
+                <td>
+                    @product.Name
+                </td>
+                <td>
+                    @product.Price.ToString("C")
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Web_DemoMVCWithEFCoreCodeFirst.DAL;
+//using Web_DemoMVCWithEFCoreCodeFirst.DAL;
+using Web_DemoMVCWithEFCoreCodeFirst.BizLayer;
 using Web_DemoMVCWithEFCoreCodeFirst.Models;
 using AutoMapper;
 
@@ -13,19 +14,29 @@ namespace Web_DemoMVCWithEFCoreCodeFirst.Controllers
 {
     public class ProductsController : Controller
     {
-        private readonly PGInvetoryDbContext _context;
+        //private readonly PGInventoryDbContext _context;
+        private readonly IProductBL _productBL;
+
         private readonly IMapper _mapper;
 
-        public ProductsController(PGInvetoryDbContext context, IMapper mapper)
+        //public ProductsController(PGInventoryDbContext context, IMapper mapper)
+        //{
+        //    _context = context;
+        //    _mapper = mapper;
+        //    _context.Database.EnsureCreated(); // Ensure the database is created
+        //}
+        public ProductsController(IProductBL productBL, IMapper mapper)
         {
-            _context = context;
+            _productBL = productBL;
             _mapper = mapper;
         }
 
         // GET: Products
         public async Task<IActionResult> Index()
         {
-            var productsVMList = _mapper.Map<IEnumerable<ProductViewModel>>(await _context.Products.ToListAsync());
+            //var productsVMList = _mapper.Map<IEnumerable<ProductViewModel>>(await _context.Products.ToListAsync());
+
+            var productsVMList= _mapper.Map<IEnumerable<ProductViewModel>>(await _productBL.GetProductsAsync());
             return View(productsVMList);
         }
 
@@ -37,8 +48,10 @@ namespace Web_DemoMVCWithEFCoreCodeFirst.Controllers
                 return NotFound();
             }
 
-            var product = await _context.Products
-                .SingleOrDefaultAsync(m => m.Id == id);
+            //var product = await _context.Products
+            //    .SingleOrDefaultAsync(m => m.Id == id);
+
+            var product = await _productBL.GetProductByIdAsync(id.Value);
             if (product == null)
             {
                 return NotFound();
@@ -65,11 +78,12 @@ namespace Web_DemoMVCWithEFCoreCodeFirst.Controllers
             var product=_mapper.Map<Product>(productVM);
             if (ModelState.IsValid)
             {
-                _context.Products.Add(product);
-                await _context.SaveChangesAsync();
+                //_context.Products.Add(product);
+                //await _context.SaveChangesAsync();
+                await _productBL.AddProductAsync(product);
                 return RedirectToAction(nameof(Index));
             }
-            return View(product);
+            return View(productVM);
         }
 
         // GET: Products/Edit/5
@@ -80,7 +94,8 @@ namespace Web_DemoMVCWithEFCoreCodeFirst.Controllers
                 return NotFound();
             }
 
-            var product = await _context.Products.FindAsync(id);
+            //var product = await _context.Products.FindAsync(id);
+            var product = await _productBL.GetProductByIdAsync(id.Value);
             if (product == null)
             {
                 return NotFound();
@@ -107,13 +122,15 @@ namespace Web_DemoMVCWithEFCoreCodeFirst.Controllers
             {
                 try
                 {
-                    _context.Products.Update(product);
-                    await _context.SaveChangesAsync();
+                    //_context.Products.Update(product);
+                    //await _context.SaveChangesAsync();
+                    await _productBL.UpdateProductAsync(product);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductExists(product.Id))
-                    {
+                    //if (!ProductExists(product.Id))
+                    if (!await ProductExistsAsync(product.Id))
+                        {
                         return NotFound();
                     }
                     else
@@ -134,8 +151,9 @@ namespace Web_DemoMVCWithEFCoreCodeFirst.Controllers
                 return NotFound();
             }
 
-            var product = await _context.Products
-                .FindAsync(id);
+            //var product = await _context.Products
+            //    .FindAsync(id);
+            var product = await _productBL.GetProductByIdAsync(id.Value);
             if (product == null)
             {
                 return NotFound();
@@ -149,19 +167,23 @@ namespace Web_DemoMVCWithEFCoreCodeFirst.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(long id)
         {
-            var product = await _context.Products.FindAsync(id);
+            //var product = await _context.Products.FindAsync(id);
+            var product = await _productBL.GetProductByIdAsync(id);
             if (product != null)
             {
-                _context.Products.Remove(product);
+                //_context.Products.Remove(product);
+                await _productBL.DeleteProductAsync(id);
             }
 
-            await _context.SaveChangesAsync();
+            //await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProductExists(long id)
+        private async Task<bool> ProductExistsAsync(long id)
         {
-            return _context.Products.Any(e => e.Id == id);
+            var products= await _productBL.GetProductsAsync();
+            //return _context.Products.Any(e => e.Id == id);
+            return products.Any(p=> p.Id == id);
         }
     }
 }

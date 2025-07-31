@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcodefirstmasterdetails\\web_demomvcwithefcodefirstmasterdetails\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|solutionrelative:web_demomvcwithefcodefirstmasterdetails\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcodefirstmasterdetails\\web_demomvcwithefcodefirstmasterdetails\\validators\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|solutionrelative:web_demomvcwithefcodefirstmasterdetails\\validators\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcodefirstmasterdetails\\web_demomvcwithefcodefirstmasterdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|solutionrelative:web_demomvcwithefcodefirstmasterdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcodefirstmasterdetails\\web_demomvcwithefcodefirstmasterdetails\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|solutionrelative:web_demomvcwithefcodefirstmasterdetails\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcodefirstmasterdetails\\web_demomvcwithefcodefirstmasterdetails\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B510E0F8-E049-406C-A9F1-1F5D84DB4B4E}|Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails.csproj|solutionrelative:web_demomvcwithefcodefirstmasterdetails\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T11:28:55.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T11:28:49.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Validators\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Validators\\CategoryValidator.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Validators\\CategoryValidator.cs",
+              "RelativeToolTip": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Validators\\CategoryValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:24:30.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Program.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Program.cs",
+              "RelativeToolTip": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:20:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Web_DemoMVCWithEfCodeFirstMasterDetails\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "Web_DemoMVCWithEfCodeFirstMasterDetails\\Controllers\\CategoryController.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:19:04.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

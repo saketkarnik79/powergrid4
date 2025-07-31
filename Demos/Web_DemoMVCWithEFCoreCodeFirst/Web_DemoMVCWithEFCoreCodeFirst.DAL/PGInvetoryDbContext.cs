@@ -3,11 +3,11 @@ using Web_DemoMVCWithEFCoreCodeFirst.Models;
 
 namespace Web_DemoMVCWithEFCoreCodeFirst.DAL
 {
-    public class PGInvetoryDbContext: DbContext
+    public class PGInventoryDbContext: DbContext
     {
         public DbSet<Product> Products { get; set; }
 
-        public PGInvetoryDbContext(DbContextOptions<PGInvetoryDbContext> options)
+        public PGInventoryDbContext(DbContextOptions<PGInventoryDbContext> options)
             :base(options)
         {
             

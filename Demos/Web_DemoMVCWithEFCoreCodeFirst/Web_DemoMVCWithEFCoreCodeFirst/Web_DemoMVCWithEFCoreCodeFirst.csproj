@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Web_DemoMVCWithEFCoreCodeFirst.DAL\Web_DemoMVCWithEFCoreCodeFirst.DAL.csproj" />
+    <ProjectReference Include="..\Web_DemoMVCWithEFCoreCodeFirst.BizLayer\Web_DemoMVCWithEFCoreCodeFirst.BizLayer.csproj" />
     <ProjectReference Include="..\Web_DemoMVCWithEFCoreCodeFirst.Models\Web_DemoMVCWithEFCoreCodeFirst.Models.csproj" />
   </ItemGroup>
 

@@ -13,7 +13,7 @@
           "Microsoft.EntityFrameworkCore.Design": "8.0.18",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.18",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
-          "Web_DemoMVCWithEFCoreCodeFirst.DAL": "1.0.0",
+          "Web_DemoMVCWithEFCoreCodeFirst.BizLayer": "1.0.0",
           "Web_DemoMVCWithEFCoreCodeFirst.Models": "1.0.0"
         },
         "runtime": {
@@ -1898,6 +1898,19 @@
           }
         }
       },
+      "Web_DemoMVCWithEFCoreCodeFirst.BizLayer/1.0.0": {
+        "dependencies": {
+          "Web_DemoMVCWithEFCoreCodeFirst.DAL": "1.0.0",
+          "Web_DemoMVCWithEFCoreCodeFirst.Models": "1.0.0",
+          "Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork": "1.0.0"
+        },
+        "runtime": {
+          "Web_DemoMVCWithEFCoreCodeFirst.BizLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Web_DemoMVCWithEFCoreCodeFirst.DAL/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.18",
@@ -1914,6 +1927,29 @@
       "Web_DemoMVCWithEFCoreCodeFirst.Models/1.0.0": {
         "runtime": {
           "Web_DemoMVCWithEFCoreCodeFirst.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Web_DemoMVCWithEFCoreCodeFirst.Repositories/1.0.0": {
+        "dependencies": {
+          "Web_DemoMVCWithEFCoreCodeFirst.DAL": "1.0.0",
+          "Web_DemoMVCWithEFCoreCodeFirst.Models": "1.0.0"
+        },
+        "runtime": {
+          "Web_DemoMVCWithEFCoreCodeFirst.Repositories.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork/1.0.0": {
+        "dependencies": {
+          "Web_DemoMVCWithEFCoreCodeFirst.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -3005,12 +3041,27 @@
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
     },
+    "Web_DemoMVCWithEFCoreCodeFirst.BizLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Web_DemoMVCWithEFCoreCodeFirst.DAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "Web_DemoMVCWithEFCoreCodeFirst.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Web_DemoMVCWithEFCoreCodeFirst.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

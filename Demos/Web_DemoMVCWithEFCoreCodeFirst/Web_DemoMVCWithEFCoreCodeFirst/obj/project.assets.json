@@ -2676,6 +2676,21 @@
           }
         }
       },
+      "Web_DemoMVCWithEFCoreCodeFirst.BizLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Web_DemoMVCWithEFCoreCodeFirst.DAL": "1.0.0",
+          "Web_DemoMVCWithEFCoreCodeFirst.Models": "1.0.0",
+          "Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Web_DemoMVCWithEFCoreCodeFirst.BizLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Web_DemoMVCWithEFCoreCodeFirst.BizLayer.dll": {}
+        }
+      },
       "Web_DemoMVCWithEFCoreCodeFirst.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2699,6 +2714,33 @@
         },
         "runtime": {
           "bin/placeholder/Web_DemoMVCWithEFCoreCodeFirst.Models.dll": {}
+        }
+      },
+      "Web_DemoMVCWithEFCoreCodeFirst.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Web_DemoMVCWithEFCoreCodeFirst.DAL": "1.0.0",
+          "Web_DemoMVCWithEFCoreCodeFirst.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Web_DemoMVCWithEFCoreCodeFirst.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Web_DemoMVCWithEFCoreCodeFirst.Repositories.dll": {}
+        }
+      },
+      "Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Web_DemoMVCWithEFCoreCodeFirst.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork.dll": {}
         }
       }
     }
@@ -7334,6 +7376,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Web_DemoMVCWithEFCoreCodeFirst.BizLayer/1.0.0": {
+      "type": "project",
+      "path": "../Web_DemoMVCWithEFCoreCodeFirst.BizLayer/Web_DemoMVCWithEFCoreCodeFirst.BizLayer.csproj",
+      "msbuildProject": "../Web_DemoMVCWithEFCoreCodeFirst.BizLayer/Web_DemoMVCWithEFCoreCodeFirst.BizLayer.csproj"
+    },
     "Web_DemoMVCWithEFCoreCodeFirst.DAL/1.0.0": {
       "type": "project",
       "path": "../Web_DemoMVCWithEFCoreCodeFirst.DAL/Web_DemoMVCWithEFCoreCodeFirst.DAL.csproj",
@@ -7343,6 +7390,16 @@
       "type": "project",
       "path": "../Web_DemoMVCWithEFCoreCodeFirst.Models/Web_DemoMVCWithEFCoreCodeFirst.Models.csproj",
       "msbuildProject": "../Web_DemoMVCWithEFCoreCodeFirst.Models/Web_DemoMVCWithEFCoreCodeFirst.Models.csproj"
+    },
+    "Web_DemoMVCWithEFCoreCodeFirst.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Web_DemoMVCWithEFCoreCodeFirst.Repositories/Web_DemoMVCWithEFCoreCodeFirst.Repositories.csproj",
+      "msbuildProject": "../Web_DemoMVCWithEFCoreCodeFirst.Repositories/Web_DemoMVCWithEFCoreCodeFirst.Repositories.csproj"
+    },
+    "Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork/1.0.0": {
+      "type": "project",
+      "path": "../Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork/Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork.csproj",
+      "msbuildProject": "../Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork/Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7352,7 +7409,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 8.0.18",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.18",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
-      "Web_DemoMVCWithEFCoreCodeFirst.DAL >= 1.0.0",
+      "Web_DemoMVCWithEFCoreCodeFirst.BizLayer >= 1.0.0",
       "Web_DemoMVCWithEFCoreCodeFirst.Models >= 1.0.0"
     ]
   },
@@ -7389,8 +7446,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.DAL\\Web_DemoMVCWithEFCoreCodeFirst.DAL.csproj": {
-              "projectPath": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.DAL\\Web_DemoMVCWithEFCoreCodeFirst.DAL.csproj"
+            "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.BizLayer\\Web_DemoMVCWithEFCoreCodeFirst.BizLayer.csproj": {
+              "projectPath": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.BizLayer\\Web_DemoMVCWithEFCoreCodeFirst.BizLayer.csproj"
             },
             "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.Models\\Web_DemoMVCWithEFCoreCodeFirst.Models.csproj": {
               "projectPath": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.Models\\Web_DemoMVCWithEFCoreCodeFirst.Models.csproj"

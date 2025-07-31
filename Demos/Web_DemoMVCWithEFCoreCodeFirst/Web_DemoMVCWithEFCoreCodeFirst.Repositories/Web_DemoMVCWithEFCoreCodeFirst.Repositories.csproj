@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Web_DemoMVCWithEFCoreCodeFirst.DAL\Web_DemoMVCWithEFCoreCodeFirst.DAL.csproj" />
+    <ProjectReference Include="..\Web_DemoMVCWithEFCoreCodeFirst.Models\Web_DemoMVCWithEFCoreCodeFirst.Models.csproj" />
+  </ItemGroup>
+
+</Project>

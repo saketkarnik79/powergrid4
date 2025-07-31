@@ -2,6 +2,9 @@ using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Web_DemoMVCWithEFCoreCodeFirst.DAL;
+using Web_DemoMVCWithEFCoreCodeFirst.BizLayer;
+using Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork;
+using Web_DemoMVCWithEFCoreCodeFirst.Repositories;
 
 namespace Web_DemoMVCWithEFCoreCodeFirst
 {
@@ -12,9 +15,12 @@ namespace Web_DemoMVCWithEFCoreCodeFirst
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddDbContext<PGInvetoryDbContext>(options=>
+            builder.Services.AddDbContext<PGInventoryDbContext>(options=>
                 //options.UseInMemoryDatabase("PGInvertory"));
                 options.UseSqlServer(builder.Configuration.GetConnectionString("cs")));
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork.UnitOfWork>();
+            builder.Services.AddScoped<IProductBL, ProductBL>();
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddAutoMapper(options => options.AddProfile<MappingProfile>());
