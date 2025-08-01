@@ -5,6 +5,8 @@ using Web_DemoMVCWithEFCoreCodeFirst.DAL;
 using Web_DemoMVCWithEFCoreCodeFirst.BizLayer;
 using Web_DemoMVCWithEFCoreCodeFirst.UnitOfWork;
 using Web_DemoMVCWithEFCoreCodeFirst.Repositories;
+using Microsoft.AspNetCore.Identity;
+using Web_DemoMVCWithEFCoreCodeFirst.Models;
 
 namespace Web_DemoMVCWithEFCoreCodeFirst
 {
@@ -18,6 +20,10 @@ namespace Web_DemoMVCWithEFCoreCodeFirst
             builder.Services.AddDbContext<PGInventoryDbContext>(options=>
                 //options.UseInMemoryDatabase("PGInvertory"));
                 options.UseSqlServer(builder.Configuration.GetConnectionString("cs")));
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<PGInventoryDbContext>()
+                .AddDefaultTokenProviders();
+
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork.UnitOfWork>();
             builder.Services.AddScoped<IProductBL, ProductBL>();
@@ -40,6 +46,7 @@ namespace Web_DemoMVCWithEFCoreCodeFirst
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

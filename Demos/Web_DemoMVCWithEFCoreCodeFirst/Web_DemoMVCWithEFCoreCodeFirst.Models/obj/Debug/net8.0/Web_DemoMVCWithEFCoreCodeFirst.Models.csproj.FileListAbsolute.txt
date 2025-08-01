@@ -10,3 +10,4 @@ C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirs
 C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\refint\Web_DemoMVCWithEFCoreCodeFirst.Models.dll
 C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.pdb
 C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\ref\Web_DemoMVCWithEFCoreCodeFirst.Models.dll
+C:\PowerGrid4\Demos\Web_DemoMVCWithEFCoreCodeFirst\Web_DemoMVCWithEFCoreCodeFirst.Models\obj\Debug\net8.0\Web_DemoMVCWithEFCoreCodeFirst.Models.csproj.AssemblyReference.cache

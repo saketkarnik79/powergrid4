@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E25AA93-EA1A-4A53-A51D-8B630C8E2266}|Web_DemoMVCWithEFCoreCodeFirst.Repositories\\Web_DemoMVCWithEFCoreCodeFirst.Repositories.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcorecodefirst\\web_demomvcwithefcorecodefirst.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E25AA93-EA1A-4A53-A51D-8B630C8E2266}|Web_DemoMVCWithEFCoreCodeFirst.Repositories\\Web_DemoMVCWithEFCoreCodeFirst.Repositories.csproj|solutionrelative:web_demomvcwithefcorecodefirst.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcorecodefirst\\web_demomvcwithefcorecodefirst\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|solutionrelative:web_demomvcwithefcorecodefirst\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcorecodefirst\\web_demomvcwithefcorecodefirst\\views\\roles\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|solutionrelative:web_demomvcwithefcorecodefirst\\views\\roles\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcorecodefirst\\web_demomvcwithefcorecodefirst\\controllers\\auth\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|solutionrelative:web_demomvcwithefcorecodefirst\\controllers\\auth\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcorecodefirst\\web_demomvcwithefcorecodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|solutionrelative:web_demomvcwithefcorecodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|c:\\powergrid4\\demos\\web_demomvcwithefcorecodefirst\\web_demomvcwithefcorecodefirst\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8487B00D-6BBB-4D56-AF78-3161881D8F17}|Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.csproj|solutionrelative:web_demomvcwithefcorecodefirst\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 284,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Web_DemoMVCWithEFCoreCodeFirst.Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst.Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Web_DemoMVCWithEFCoreCodeFirst.Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEFCoreCodeFirst\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Program.cs",
+              "RelativeToolTip": "Web_DemoMVCWithEFCoreCodeFirst\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwDUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T09:05:23.915Z",
+              "WhenOpened": "2025-07-31T10:58:08.185Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T10:55:56.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\ManageUsers.cshtml",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\ManageUsers.cshtml",
+              "RelativeToolTip": "Web_DemoMVCWithEFCoreCodeFirst\\Views\\Roles\\ManageUsers.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T10:55:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\Auth\\RolesController.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\Auth\\RolesController.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\Auth\\RolesController.cs",
+              "RelativeToolTip": "Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\Auth\\RolesController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwG4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:28:21.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\Web_DemoMVCWithEFCoreCodeFirst\\Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Web_DemoMVCWithEFCoreCodeFirst\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:27:17.686Z"
             }
           ]
         }

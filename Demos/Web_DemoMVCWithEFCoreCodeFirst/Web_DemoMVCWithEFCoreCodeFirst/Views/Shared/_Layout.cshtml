@@ -29,6 +29,32 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
                         </li>
                     </ul>
+                    <ul class="navbar-nav m-lg-auto">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            if (User.IsInRole("Admins"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Roles" asp-action="Index">Roles</a>
+                                </li>
+                            }
+                            <li class="nav-item">
+                                <span>
+                                    Welcome @User.Identity.Name.Split('@')[0]
+                                </span>
+                                <a class="nav-link" asp-controller="Account" asp-action="Logout">Logout</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Account" asp-action="Login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Account" asp-action="Register">Register</a>
+                            </li>
+                        }
+                    </ul>
                 </div>
             </div>
         </nav>

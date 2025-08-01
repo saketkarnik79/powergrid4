@@ -1,0 +1,41 @@
+﻿@model List<UserRoleViewModel>
+@{
+    ViewData["Title"] = "Manage Users in Role";
+}
+
+<h2>@ViewData["Title"]: @ViewBag.RoleName</h2>
+
+<div>
+    <form method="post" asp-action="ManageUsers">
+        <input type="hidden" name="id" value="@ViewBag.RoleId"/>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        User Name
+                    </th>
+                    <th>
+                        Assigned?
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    <tr>
+                        <td>
+                            @Model[i].UserName
+                        </td>
+                        <td>
+                            <input asp-for="@Model[i].IsSelected" />
+                            <input type="hidden" asp-for="@Model[i].UserId" />
+                            <input type="hidden" asp-for="@Model[i].UserName" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <button type="submit" class="btn btn-primary">Save</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to Roles List</a>
+     </form>
+</div>
