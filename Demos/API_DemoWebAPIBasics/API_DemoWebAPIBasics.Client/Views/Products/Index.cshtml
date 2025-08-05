@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<div id="productsList">
+    <p>
+        Loading Products...
+    </p>
+</div>
+@section Scripts{ 
+    <script type="text/javascript">
+        $(function () {
+            $.ajax({
+                url: "https://localhost:7158/api/ProductsApi",
+                method: "GET",
+                success: function (data) {
+                    var html = "<ul>";
+                    $.each(data, function (i, product) {
+                        html += `<li><strong>${product.name}</strong></li>`;
+                    });
+                    html += "</ul>";
+                    $("#productsList").html(html);
+                },
+                error: function () {
+                    $("#productsList").html("<p>Failed to load products.</p>");
+                }
+            });
+        })
+    </script>
+}

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C7D3A6-A415-4883-B6C3-BD11A0369A06}|API_DemoWebAPIBasics.DAL\\API_DemoWebAPIBasics.DAL.csproj|c:\\powergrid4\\demos\\api_demowebapibasics\\api_demowebapibasics.dal\\pginventorydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C7D3A6-A415-4883-B6C3-BD11A0369A06}|API_DemoWebAPIBasics.DAL\\API_DemoWebAPIBasics.DAL.csproj|solutionrelative:api_demowebapibasics.dal\\pginventorydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE411D0-78D9-48D0-829E-9BBADCB27787}|API_DemoWebAPIBasics\\API_DemoWebAPIBasics.csproj|c:\\powergrid4\\demos\\api_demowebapibasics\\api_demowebapibasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE411D0-78D9-48D0-829E-9BBADCB27787}|API_DemoWebAPIBasics\\API_DemoWebAPIBasics.csproj|solutionrelative:api_demowebapibasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C7D3A6-A415-4883-B6C3-BD11A0369A06}|API_DemoWebAPIBasics.DAL\\API_DemoWebAPIBasics.DAL.csproj|c:\\powergrid4\\demos\\api_demowebapibasics\\api_demowebapibasics.dal\\pginventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C7D3A6-A415-4883-B6C3-BD11A0369A06}|API_DemoWebAPIBasics.DAL\\API_DemoWebAPIBasics.DAL.csproj|solutionrelative:api_demowebapibasics.dal\\pginventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE411D0-78D9-48D0-829E-9BBADCB27787}|API_DemoWebAPIBasics\\API_DemoWebAPIBasics.csproj|c:\\powergrid4\\demos\\api_demowebapibasics\\api_demowebapibasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE411D0-78D9-48D0-829E-9BBADCB27787}|API_DemoWebAPIBasics\\API_DemoWebAPIBasics.csproj|solutionrelative:api_demowebapibasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PGInventoryDbContextFactory.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics.DAL\\PGInventoryDbContextFactory.cs",
+              "RelativeDocumentMoniker": "API_DemoWebAPIBasics.DAL\\PGInventoryDbContextFactory.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics.DAL\\PGInventoryDbContextFactory.cs",
+              "RelativeToolTip": "API_DemoWebAPIBasics.DAL\\PGInventoryDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:19:22.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PGInventoryDbContext.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics.DAL\\PGInventoryDbContext.cs",
+              "RelativeDocumentMoniker": "API_DemoWebAPIBasics.DAL\\PGInventoryDbContext.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics.DAL\\PGInventoryDbContext.cs",
+              "RelativeToolTip": "API_DemoWebAPIBasics.DAL\\PGInventoryDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:14:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics\\Program.cs",
+              "RelativeDocumentMoniker": "API_DemoWebAPIBasics\\Program.cs",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics\\Program.cs",
+              "RelativeToolTip": "API_DemoWebAPIBasics\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:00:40.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics\\appsettings.json",
+              "RelativeDocumentMoniker": "API_DemoWebAPIBasics\\appsettings.json",
+              "ToolTip": "C:\\PowerGrid4\\Demos\\API_DemoWebAPIBasics\\API_DemoWebAPIBasics\\appsettings.json",
+              "RelativeToolTip": "API_DemoWebAPIBasics\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T04:21:57.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

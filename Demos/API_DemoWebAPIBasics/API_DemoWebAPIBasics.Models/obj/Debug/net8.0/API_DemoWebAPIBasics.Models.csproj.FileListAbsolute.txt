@@ -1,0 +1,12 @@
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\bin\Debug\net8.0\API_DemoWebAPIBasics.Models.deps.json
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\bin\Debug\net8.0\API_DemoWebAPIBasics.Models.dll
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\bin\Debug\net8.0\API_DemoWebAPIBasics.Models.pdb
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\API_DemoWebAPIBasics.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\API_DemoWebAPIBasics.Models.AssemblyInfoInputs.cache
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\API_DemoWebAPIBasics.Models.AssemblyInfo.cs
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\API_DemoWebAPIBasics.Models.csproj.CoreCompileInputs.cache
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\API_DemoWebAPIBasics.Models.sourcelink.json
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\API_DemoWebAPIBasics.Models.dll
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\refint\API_DemoWebAPIBasics.Models.dll
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\API_DemoWebAPIBasics.Models.pdb
+C:\PowerGrid4\Demos\API_DemoWebAPIBasics\API_DemoWebAPIBasics.Models\obj\Debug\net8.0\ref\API_DemoWebAPIBasics.Models.dll

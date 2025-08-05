@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Start API App then MVC App",
+    "Projects": [
+      {
+        "Path": "API_DemoWebAPIBasics\\API_DemoWebAPIBasics.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "API_DemoWebAPIBasics.Client\\API_DemoWebAPIBasics.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
